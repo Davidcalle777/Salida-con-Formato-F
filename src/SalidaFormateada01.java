@@ -1,5 +1,8 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+* Salida formateada
+*
+* @author Juan David Calle
+*/
 public class SalidaFormateada01 {
 
     public static void main(String[] args) {
